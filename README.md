@@ -17,4 +17,14 @@ At [mee6alternatives.com](https://mee6alternatives.com), we provide:
 * **Integration Guide:** Learn about the ease of integrating these bots into your current server setup.
 * **Up-to-date Information:** The Discord bot landscape is continuously evolving. We ensure our content remains current and relevant.
 
-Join us as we delve into the top alternatives to MEE6, designed to enhance your Discord experience.
+### Why MEE6 Might Not Be the Best Choice
+
+To understand some of the criticisms of MEE6, watch this informative video: ["Why MEE6 is a Bad Bot"](https://www.youtube.com/watch?v=FAsGoexR\_AA). The video discusses various aspects where MEE6 may fall short, providing insights that can help you make an informed decision about whether it's the right fit for your server.\
+
+
+### Open Source Project - Contribute Today!
+
+Our project is open source, and we actively encourage contributions from the community! If you're a developer looking to add a bot or improve our guide, visit our GitHub repository at [github.com/raxon/mee6alternatives.com](https://github.com/raxon/mee6alternatives.com). Your expertise and contributions can greatly enhance the value of our resource for Discord server owners everywhere.
+
+Discover the best MEE6 alternatives with us and elevate your Discord experience.\
+\
